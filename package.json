@@ -1,6 +1,6 @@
 {
   "name": "nuxt-music-flow",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Nuxt 3 module for audio player component with playlist and waveform visualization.",
   "repository": {
     "type": "git",
