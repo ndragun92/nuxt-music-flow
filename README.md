@@ -16,6 +16,14 @@ Find and replace all on all files (CMD+SHIFT+F):
 
 Nuxt 3 module for audio player component with playlist and waveform visualization. for doing amazing things.
 
+![Preview](https://ik.imagekit.io/ltdassets/public/social.jpg?updatedAt=1741803287465)
+
+[Documentation](https://vue-music-flow-docs.vercel.app/getting-started)
+
+[Original Repository](https://github.com/ndragun92/vue-music-flow)
+
+[Module Repository](https://github.com/ndragun92/nuxt-music-flow)
+
 ## Features
 
 <!-- Highlight some of the features your module provide here -->
@@ -34,6 +42,9 @@ npx nuxi module add nuxt-music-flow
 
 That's it! You can now use nuxt-music-flow in your Nuxt app ✨
 
+## How to use?
+
+[Click here to check implementation](https://vue-music-flow-docs.vercel.app/usage#nuxt)
 
 ## Contribution
 
