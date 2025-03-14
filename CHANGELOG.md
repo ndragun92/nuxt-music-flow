@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.1.4
+
+[compare changes](https://github.com/ndragun92/nuxt-music-flow/compare/v1.1.3...v1.1.4)
+
+### 🩹 Fixes
+
+- Remove runtime plugin and update vue-music-flow ([0ed29fe](https://github.com/ndragun92/nuxt-music-flow/commit/0ed29fe))
+
+### ❤️ Contributors
+
+- Nemanjadragun <nemanjadragun92@gmail.com>
+
 ## v1.1.3
 
 [compare changes](https://github.com/ndragun92/nuxt-music-flow/compare/v1.1.2...v1.1.3)
