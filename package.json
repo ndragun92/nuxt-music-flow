@@ -11,7 +11,7 @@
   },
   "license": "MIT",
   "type": "module",
-  "homepage": "https://vue-music-flow-docs.vercel.app/",
+  "homepage": "https://vue-music-flow-docs.vercel.app/usage#nuxt",
   "keywords": [
     "nuxt3",
     "module",
