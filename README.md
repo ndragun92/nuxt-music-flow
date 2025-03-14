@@ -18,11 +18,13 @@ Nuxt 3 module for audio player component with playlist and waveform visualizatio
 
 ![Preview](https://ik.imagekit.io/ltdassets/public/social.jpg?updatedAt=1741803287465)
 
-[Documentation](https://vue-music-flow-docs.vercel.app/getting-started)
+[🏀 &nbsp; Codesandbox Playground](https://codesandbox.io/p/devbox/async-wildflower-rh67lp?workspaceId=ws_DivtQTWPrYJECSvVHXScEB)
 
-[Original Repository](https://github.com/ndragun92/vue-music-flow)
+[✨ &nbsp;Documentation](https://vue-music-flow-docs.vercel.app/getting-started)
 
-[Module Repository](https://github.com/ndragun92/nuxt-music-flow)
+[✨ &nbsp;Original Repository](https://github.com/ndragun92/vue-music-flow)
+
+[✨ &nbsp;Module Repository](https://github.com/ndragun92/nuxt-music-flow)
 
 ## Features
 
