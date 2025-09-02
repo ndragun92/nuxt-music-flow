@@ -1,6 +1,23 @@
 # Changelog
 
 
+## v1.1.6
+
+[compare changes](https://github.com/ndragun92/nuxt-music-flow/compare/v1.1.4...v1.1.6)
+
+### 💅 Refactors
+
+- Remove unused addPlugin import from module.ts ([dfe0701](https://github.com/ndragun92/nuxt-music-flow/commit/dfe0701))
+
+### 🏡 Chore
+
+- **release:** V1.1.5 ([ba846c2](https://github.com/ndragun92/nuxt-music-flow/commit/ba846c2))
+
+### ❤️ Contributors
+
+- Ndragun <nemanjadragun92@gmail.com>
+- Nemanjadragun <nemanjadragun92@gmail.com>
+
 ## v1.1.5
 
 [compare changes](https://github.com/ndragun92/nuxt-music-flow/compare/v1.1.3...v1.1.5)
