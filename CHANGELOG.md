@@ -1,6 +1,10 @@
 # Changelog
 
 
+## v1.1.7
+
+[compare changes](https://github.com/ndragun92/nuxt-music-flow/compare/v1.1.6...v1.1.7)
+
 ## v1.1.6
 
 [compare changes](https://github.com/ndragun92/nuxt-music-flow/compare/v1.1.4...v1.1.6)
